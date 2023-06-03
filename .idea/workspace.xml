@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="283b1964-9d5d-4e38-843e-82d8e45465d5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pertemuan 8.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StackQueueMath/latihan1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StackQueueMath/latihanMath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StackQueueMath/latihanStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StackQueueMath/tugas_queque.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StackQueueMath/tugas_queque2.java" afterDir="false" />
-    </list>
+    <list default="true" id="283b1964-9d5d-4e38-843e-82d8e45465d5" name="Changes" comment="p" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,7 +45,38 @@
       <option name="presentableId" value="Default" />
       <updated>1685793466257</updated>
     </task>
+    <task id="LOCAL-00001" summary="p">
+      <created>1685795203308</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685795203308</updated>
+    </task>
+    <task id="LOCAL-00002" summary="p">
+      <created>1685795328082</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1685795328082</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="-" />
+    <MESSAGE value="p" />
+    <option name="LAST_COMMIT_MESSAGE" value="p" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pertemuan_8$tugas_queque.ic" NAME="tugas_queque Coverage Results" MODIFIED="1685794376635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
